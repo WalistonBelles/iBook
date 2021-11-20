@@ -4,7 +4,7 @@
   <h1>
     <img alt="iBook" title="#" src="assets/img/logo.svg" />
   </h1>
-  Um simples blog para leitura de livros, utilizando Nuxt.JS e Atomic Design
+  Um simples blog para leitura de livros cujos dados são obtidos através do consumo de uma API, utilizando Nuxt.JS e Atomic Design
   <br><br>
 
   ![Badge](https://img.shields.io/github/issues/WalistonBelles/iBook?color=green)
